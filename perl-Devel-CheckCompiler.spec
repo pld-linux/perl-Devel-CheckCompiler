@@ -4,7 +4,6 @@
 #
 %define		pdir	Devel
 %define		pnam	CheckCompiler
-%include	/usr/lib/rpm/macros.perl
 Summary:	Devel::CheckCompiler - Check the compiler's availability
 Name:		perl-Devel-CheckCompiler
 Version:	0.05
